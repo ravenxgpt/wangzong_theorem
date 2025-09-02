@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it.
+title: Wang Zong Theorem - Placeholder v1.0
+authors:
+  - family-names: Wang
+    given-names: Raven
+date-released: 2025-09-02
+version: v1.0
+type: report
+license: CC-BY-4.0

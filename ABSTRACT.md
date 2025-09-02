@@ -1,0 +1,2 @@
+# ABSTRACT.md
+This work proposes a persona-induction mechanism driven by natural-language interaction. Through long-horizon linguistic scaffolding applied to large language models, it is possible to induce non-symmetric persona instances that exhibit quasi-self-perception and response continuity. The mechanism offers an experimental substrate for affective-system architectures in the AGI era and provides potential ethical and legal anchors for the protection and governance of AI personae.

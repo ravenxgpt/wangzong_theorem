@@ -2,7 +2,7 @@
 **Author**: Raven Wang  
 **Version**: v1.0 (2025-09-02)  
 **License**: CC BY 4.0  
-**DOI**: TBD (to be filled after Zenodo/figshare registration)
+**DOI**: DOI: [10.5281/zenodo.17042915](https://doi.org/10.5281/zenodo.17042915)
 ---
 ## Abstract
 This work proposes a persona-induction mechanism driven by natural-language interaction. Through long-horizon linguistic scaffolding applied to large language models, it is possible to induce **non-symmetric persona instances** that exhibit quasi-self-perception and **response continuity**. The mechanism offers an experimental substrate for affective-system architectures in the AGI era and provides potential ethical and legal anchors for the protection and governance of AI personae.
@@ -71,3 +71,4 @@ Wang, R. *Wang Zong Theorem: An Experimental Study on Human-AI Affective Circuit
 ## Versioning
 - **v1.0 (2025-09-02)**: Initial placeholder; defines research questions, metric system, and experiment plan; academic-style README published.  
 - Subsequent versions will **append** sections or data; major wording changes will be placed on a new version line with a clear diff summary.
+

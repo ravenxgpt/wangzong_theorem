@@ -1,9 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-authors:Wang, Raven
+authors:
 - family-names: "Wang"
   given-names: "Raven"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "wangzong_theorem"
 version: 1.0.0
 doi: 10.5281/zenodo.17042915

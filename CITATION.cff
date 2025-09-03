@@ -6,6 +6,6 @@ authors:
     given-names: Raven
 date-released: 2025-09-02
 version: v1.0
-doi: 10.5281/zenodo.17042915
+doi: "10.5281/zenodo.17042915"
 type: report
 license: CC-BY-4.0
